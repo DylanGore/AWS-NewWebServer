@@ -1,0 +1,7 @@
+awscli
+boto3
+bs4
+colorama
+console-menu
+paramiko
+requests
